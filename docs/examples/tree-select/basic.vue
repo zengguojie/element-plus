@@ -4,6 +4,7 @@
     :data="data"
     :render-after-expand="false"
     style="width: 240px"
+    clearable
   />
   <el-divider />
   show checkbox:
